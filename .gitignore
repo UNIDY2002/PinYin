@@ -1,0 +1,10 @@
+.idea
+data/*.txt
+!data/chars.txt
+!data/input.txt
+!data/standard.txt
+raw/*.txt
+!raw/9.txt
+build/
+dist/
+*.spec
